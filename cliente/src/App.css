@@ -1,0 +1,26 @@
+.Card{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 47%;
+    margin-bottom: 2rem;
+}
+.Card:hover{
+    background-color: brown;
+}
+.titulo{
+    color: #FFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+}
+.description{
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFF;
+}
